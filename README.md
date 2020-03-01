@@ -1,6 +1,8 @@
-# BC forum presentation website. Made with [Reveal JS](https://github.com/hakimel/reveal.js)
+## BC Forum presentation website. 
 
-## Installation
+Made with [reveal.js](https://github.com/hakimel/reveal.js) framework
+
+### Installation
 
 The **basic setup** is for authoring presentations only. The **full setup** gives you access to all reveal.js features and plugins such as speaker notes as well as the development tasks needed to make changes to the source.
 
